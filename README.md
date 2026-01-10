@@ -25,7 +25,7 @@
 
 | 🔗 Project | 🧰 Tech Stack | 📄 Description |
 |------------|---------------|----------------|
-| [*SQL EDA – Classic Models Database*](https://github.com/shubhamshinde8504/EDA_Project-using-SQL) | SQL | Performed comprehensive EDA using joins, subqueries, and stored procedures to extract key business insights. |
+| [*SQL EDA – Classic Models Database*](https://github.com/shubhamshinde8504/EDA_Project_using_SQL) | SQL | Performed comprehensive EDA using joins, subqueries, and stored procedures to extract key business insights. |
 | [*Sales Analysis Dashboard*](https://github.com/shubhamshinde8504/Sales_Dashboard) | MS Excel | Designed an interactive dashboard with KPIs, charts & slicers to visualize ₹4,01,411 total sales and 21% profit margin. |
 
 ---
